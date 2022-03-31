@@ -1,6 +1,6 @@
 # clean-architecture-flutter-leagues-api
 
-- A Flutter project with clean architecture bloc and API.
+- A Flutter project Hero Animation with clean architecture bloc and API.
 - API: https://api-football-standings.azharimm.site/leagues
 
 ## Screenshots
